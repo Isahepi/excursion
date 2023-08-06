@@ -2,6 +2,7 @@
 body{
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .tittle{
@@ -11,6 +12,9 @@ body{
     color: white;
 }
 
+video{
+    align-items: center;
+}
 .link {
     color: aquamarine;
     font-size: 16px;
@@ -38,4 +42,10 @@ body{
 .special{
     color: gray;
     text-align: right;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+    font-size: 20px;
 }
