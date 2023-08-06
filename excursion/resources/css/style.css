@@ -11,10 +11,11 @@ body{
     color: white;
 }
 
-.p{
-    color:aquamarine;
+.link {
+    color: aquamarine;
     font-size: 16px;
 }
+
 
 .guide{
     font-family: verdana;
@@ -28,7 +29,6 @@ body{
     font-size: 21px;
     color: gray;
 }
-
 
 .phone{
     padding-top: 20px;
