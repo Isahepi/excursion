@@ -1,0 +1,17 @@
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.tittle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.p{
+    color:aquamarine;
+    font-size: 16px;
+}
